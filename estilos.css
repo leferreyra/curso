@@ -1,0 +1,22 @@
+body, html {
+  height: 100%;
+  background: linear-gradient(#00DDBB, #0076FF);
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contenedor {
+  width: 730px;
+  height: 300px;
+  background: red;
+}
+
+.foto {
+  width: 200px;
+  height: 200px;
+  background: yellow;
+}
